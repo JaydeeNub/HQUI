@@ -8,7 +8,7 @@ FrameWidgetClass {
      {
       ImageWidgetClass "{5CFCF5E894AE6628}" {
        Prefab "{5CFCF5E894AE6628}"
-       Texture "{40B514A408374066}Images/Ontwerp_zonder_titel16.edds"
+       Texture "{A38D6F60C8A1D277}Images/Ontwerp_zonder_titel13.edds"
        Size 2560 1440
       }
      }
@@ -23,7 +23,6 @@ FrameWidgetClass {
      {
       ImageWidgetClass "{5DFF03E4AD9D1EF2}" {
        Prefab "{5DFF03E4AD9D1EF2}"
-       Texture "{8121089CD1593D2B}Images/ArmaHQ.edds"
        Size 480 260
       }
       FrameWidgetClass "{5DFF03E4AD9D1EF7}" {
