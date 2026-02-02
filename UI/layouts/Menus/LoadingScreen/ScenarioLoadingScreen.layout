@@ -1,0 +1,107 @@
+FrameWidgetClass {
+ {
+  OverlayWidgetClass "{5DFF03E4AD9D1E88}" {
+   Prefab "{5DFF03E4AD9D1E88}"
+   {
+    ScaleWidgetClass "{5CFCF5E894AE6629}" {
+     Prefab "{5CFCF5E894AE6629}"
+     {
+      ImageWidgetClass "{5CFCF5E894AE6628}" {
+       Prefab "{5CFCF5E894AE6628}"
+       Texture "{40B514A408374066}Images/Ontwerp_zonder_titel16.edds"
+       Size 2560 1440
+      }
+     }
+    }
+   }
+  }
+  FrameWidgetClass "{5E04A017BD489B2A}" {
+   Prefab "{5E04A017BD489B2A}"
+   {
+    OverlayWidgetClass "{5DFF03E4AD9D1E85}" {
+     Prefab "{5DFF03E4AD9D1E85}"
+     {
+      ImageWidgetClass "{5DFF03E4AD9D1EF2}" {
+       Prefab "{5DFF03E4AD9D1EF2}"
+       Texture "{8121089CD1593D2B}Images/ArmaHQ.edds"
+       Size 480 260
+      }
+      FrameWidgetClass "{5DFF03E4AD9D1EF7}" {
+       Prefab "{5DFF03E4AD9D1EF7}"
+       {
+        SizeLayoutWidgetClass "{5DFF03E4AD9D1EEA}" {
+         Prefab "{5DFF03E4AD9D1EEA}"
+         {
+          ScaleWidgetClass "{5DFF03E4AD9D1EE8}" {
+           Prefab "{5DFF03E4AD9D1EE8}"
+           {
+            ImageWidgetClass "{5DFF03E4AD9D1EEF}" {
+             Prefab "{5DFF03E4AD9D1EEF}"
+             Texture "{096D01BB7AF1340C}Images/Ontwerp_zonder_titel11.edds"
+             Size 2560 1440
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+      VerticalLayoutWidgetClass "{5DFF03E4AD9D1EE1}" {
+       Prefab "{5DFF03E4AD9D1EE1}"
+       {
+        TextWidgetClass "{5DFF03E4AD9D1EDB}" {
+         Prefab "{5DFF03E4AD9D1EDB}"
+         Text "by Jaydee"
+        }
+       }
+      }
+      OverlayWidgetClass "{5DFF03E4AD9D1ED8}" {
+       Prefab "{5DFF03E4AD9D1ED8}"
+       {
+        ImageWidgetClass "{5DFF03E4AD9D1EDE}" {
+         Prefab "{5DFF03E4AD9D1EDE}"
+         Size 4 12
+        }
+        HorizontalLayoutWidgetClass "{5DFF03E4AD9D1EDC}" {
+         Prefab "{5DFF03E4AD9D1EDC}"
+         {
+          ImageWidgetClass "{5DFF03E4AD9D1ED3}" {
+           Prefab "{5DFF03E4AD9D1ED3}"
+           Color 0.2588 0.3647 0.6863 1
+           Size 4 12
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+    ScaleWidgetClass "{5DFF03E4AD9D1E82}" {
+     Prefab "{5DFF03E4AD9D1E82}"
+     {
+      ImageWidgetClass "{5DFF03E4AD9D1E80}" {
+       Prefab "{5DFF03E4AD9D1E80}"
+       Texture "{BFB2B4A142212E5B}Images/PhoenixLogo.edds"
+       Size 500 500
+      }
+     }
+    }
+   }
+  }
+  OverlayWidgetClass "{5E048703DA7D2941}" {
+   Prefab "{5E048703DA7D2941}"
+   {
+    ScaleWidgetClass "{5CFCF5E894AE6629}" {
+     Prefab "{5CFCF5E894AE6629}"
+     {
+      ImageWidgetClass "{5CFCF5E894AE6628}" {
+       Prefab "{5CFCF5E894AE6628}"
+       Texture "{A9283F2D7EB121F0}Images/Ontwerp_zonder_titel23.edds"
+       Size 730 730
+      }
+     }
+    }
+   }
+  }
+ }
+}
